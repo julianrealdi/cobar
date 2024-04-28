@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cobar/static/css/main.3d1330af.css",
+    "main.js": "/cobar/static/js/main.eccf8a0c.js",
+    "static/js/453.6e30a6ed.chunk.js": "/cobar/static/js/453.6e30a6ed.chunk.js",
+    "static/media/hero.png": "/cobar/static/media/hero.64a4ae3122abb06bbfc8.png",
+    "static/media/people-2.jpg": "/cobar/static/media/people-2.aa2274440c6fc9059c48.jpg",
+    "static/media/people-1.jpg": "/cobar/static/media/people-1.02606a2b7ae89ce58842.jpg",
+    "static/media/people-3.jpg": "/cobar/static/media/people-3.814d8ceb9c72bd6a3d4e.jpg",
+    "static/media/kelas-8.jpg": "/cobar/static/media/kelas-8.ef3312c3a3531eb577ca.jpg",
+    "static/media/kelas-3.jpg": "/cobar/static/media/kelas-3.061eb6dbdff711bd847c.jpg",
+    "static/media/kelas-2.jpg": "/cobar/static/media/kelas-2.fc6d4f869445b7ceca7c.jpg",
+    "static/media/kelas-9.jpg": "/cobar/static/media/kelas-9.02924cc676da2e42ce44.jpg",
+    "static/media/kelas-5.jpg": "/cobar/static/media/kelas-5.59b96414b88eddecd76f.jpg",
+    "static/media/kelas-1.jpg": "/cobar/static/media/kelas-1.b70566405d51d10083f6.jpg",
+    "static/media/kelas-7.jpg": "/cobar/static/media/kelas-7.378571bfc2790e2925c4.jpg",
+    "static/media/kelas-4.jpg": "/cobar/static/media/kelas-4.4c183551d5e48d3ed642.jpg",
+    "static/media/kelas-6.jpg": "/cobar/static/media/kelas-6.bd6c236a3f68975a35cc.jpg",
+    "index.html": "/cobar/index.html",
+    "main.3d1330af.css.map": "/cobar/static/css/main.3d1330af.css.map",
+    "main.eccf8a0c.js.map": "/cobar/static/js/main.eccf8a0c.js.map",
+    "453.6e30a6ed.chunk.js.map": "/cobar/static/js/453.6e30a6ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d1330af.css",
+    "static/js/main.eccf8a0c.js"
+  ]
+}
